@@ -122,7 +122,7 @@ const HeroSection = () => {
                 <Mail className="ml-2 w-5 h-5" />
               </Button>
                <a
-    href="https://drive.google.com/file/d/1KNosWDxBE78H4NgqffTKowYz5UaDe7ff/view?usp=sharing"
+    href="https://drive.google.com/file/d/1U6OB60W6PRZ46wuGZO3Rdy7vMsWN1zZ9/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
   >

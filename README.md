@@ -25,9 +25,9 @@ I believe in:
 
 ### Frontend
 - HTML5, CSS3, JavaScript
-- React.js / Next.js
+- AngularJS
 - Tailwind CSS
-- Framer Motion (Animations)
+
 
 ### Backend & Programming
 - Python
@@ -76,7 +76,7 @@ git clone https://github.com/your-username/portfolio.git
 cd portfolio
 npm install
 npm run dev
-
+```
 ## 📫 Contact Me
 
 💼 LinkedIn: [https://www.linkedin.com/in/shivaywadhera/]
