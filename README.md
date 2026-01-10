@@ -72,7 +72,7 @@ portfolio/
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Swadhera25/Shivay-Portfolio.git
 cd portfolio
 npm install
 npm run dev
