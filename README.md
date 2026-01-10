@@ -3,7 +3,7 @@
 Welcome to my personal portfolio!  
 This website showcases my skills, projects, and interests across **Frontend Development, UI/UX Design, Python, Data Engineering, and AI-driven solutions**.
 
-🌐 **Live Website:** [Your Portfolio Link Here]  
+🌐 **Live Website:** [https://shivayportfolioo.netlify.app/]  
 📄 **Resume:** [(https://drive.google.com/file/d/1KNosWDxBE78H4NgqffTKowYz5UaDe7ff/view?usp=sharing)]  
 
 ---
