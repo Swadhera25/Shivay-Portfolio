@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Mail, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profilePhoto from '@/assets/profile-photo.jpeg';
+import profilePhoto from '@/assets/profile-photo.png';
 
 const HeroSection = () => {
   const scrollToProjects = () => {
