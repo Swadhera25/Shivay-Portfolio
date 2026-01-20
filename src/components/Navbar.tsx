@@ -62,7 +62,7 @@ const Navbar = () => {
               scrollToSection('#home');
             }}
           >
-            SW
+            SHIVAY
           </motion.a>
 
           {/* Desktop Navigation */}
